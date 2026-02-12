@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction using XGBoost
+<img width="1366" height="768" alt="Screenshot 2026-02-12 193742" src="https://github.com/user-attachments/assets/a2a4017e-7673-480c-b721-3917ba434694" /><img width="1366" height="768" alt="Screenshot 2026-02-12 193742" src="https://github.com/user-attachments/assets/36a0dcc3-63eb-4497-8683-781866fbcef2" /># 📊 Customer Churn Prediction using XGBoost
 
 
 🚀 **Live Demo:** https://customerchurnprediction-a2o7rzxgsckgitgpbfmuab.streamlit.app/  
@@ -117,8 +117,29 @@ An interactive Streamlit application allows users to:
 - View churn probability  
 - See risk classification (Low / Medium / High)  
 
+
+## 📸 Application Screenshot
+
+### Stay Prediction
+
+<img width="1366" height="768" alt="Screenshot 2026-02-12 193742" src="https://github.com/user-attachments/assets/f898ca0c-d223-44a4-a290-b2c63e6480f8" />
+
+<img width="1366" height="768" alt="Screenshot 2026-02-12 193838" src="https://github.com/user-attachments/assets/1cffff62-a17c-4e81-aa2f-a4c5fff5c94b" />
+
+### Churn Prediction
+
+<img width="1366" height="768" alt="Screenshot 2026-02-12 194105" src="https://github.com/user-attachments/assets/7bba2bc8-d833-428c-84de-e871c1ae8e98" />
+
+<img width="1366" height="768" alt="Screenshot 2026-02-12 194130" src="https://github.com/user-attachments/assets/f1bb5dc1-29fe-4321-b4f9-558bb9884aab" />
+
+
+
+> Interactive churn prediction dashboard built with Streamlit.
 ### Run Locally:
 
 ```bash
+git clone https://github.com/ishivamm/Customer_Churn_Prediction.git
+cd Customer_Churn_Prediction
+pip install -r requirements.txt
 streamlit run app.py
 
