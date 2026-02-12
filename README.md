@@ -1,5 +1,10 @@
 # 📊 Customer Churn Prediction using XGBoost
 
+
+🚀 **Live Demo:** https://customerchurnprediction-a2o7rzxgsckgitgpbfmuab.streamlit.app/  
+📸 Scroll down to see app screenshots
+
+---
 ## 🚀 Project Overview
 
 Customer churn is a critical challenge in the telecom industry, as retaining customers is significantly more cost-effective than acquiring new ones.
