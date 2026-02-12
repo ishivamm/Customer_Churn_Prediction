@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot 2026-02-12 193742" src="https://github.com/user-attachments/assets/a2a4017e-7673-480c-b721-3917ba434694" /><img width="1366" height="768" alt="Screenshot 2026-02-12 193742" src="https://github.com/user-attachments/assets/36a0dcc3-63eb-4497-8683-781866fbcef2" /># 📊 Customer Churn Prediction using XGBoost
+ 📊 Customer Churn Prediction using XGBoost
 
 
 🚀 **Live Demo:** https://customerchurnprediction-a2o7rzxgsckgitgpbfmuab.streamlit.app/  
